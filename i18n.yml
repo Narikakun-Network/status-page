@@ -1,0 +1,55 @@
+activeIncidents: アクティブなインシデント
+allSystemsOperational: すべてのシステムが稼働中
+incidentReport: "インシデント #$NUMBER レポート →"
+activeIncidentSummary: $DATE に $POSTS 件の投稿
+incidentTitle: インシデント $NUMBER の詳細
+incidentDetails: インシデントの詳細
+incidentFixed: 修正済み
+incidentOngoing: 進行中
+incidentOpenedAt: 報告時刻
+incidentClosedAt: 解決時刻
+incidentViewOnGitHub: GitHub で表示してサブスクライブする
+incidentCommentSummary: $AUTHOR が $DATE に投稿しました
+incidentBack: ← すべてのインシデントに戻る
+pastIncidents: 過去のインシデント
+pastIncidentsResolved: $POSTS 件の投稿で $MINUTES 分以内に解決しました
+liveStatus: ライブステータス
+overallUptime: "稼働率: $UPTIME"
+overallUptimeTitle: 稼働率
+averageResponseTime: "平均応答速度: $TIMEms"
+averageResponseTimeTitle: 平均応答速度
+sevelDayResponseTime: 7 日間の応答速度
+responseTimeMs: 応答速度 (ms)
+up: 異常なし
+down: 異常あり
+degraded: 異常の可能性
+ms: ms
+loading: 読み込み中
+navGitHub: GitHub
+footer: Narikakun Network.
+rateLimitExceededTitle: レート制限を超えました
+rateLimitExceededIntro: 1 時間に実行できるリクエスト数を超えたため、この Web サイトに再度アクセスするにはしばらくお待ちください。 または、GitHub Personal Access Token を追加して、この Web サイトを引き続き使用することもできます。
+rateLimitExceededWhatDoesErrorMean: このエラーはどういう意味ですか?
+rateLimitExceededErrorMeaning: この Web サイトは、GitHub API を使用して、Web サイトのステータスに関するリアルタイム データにアクセスします。 デフォルトでは、GitHub は各 IP アドレスに 1 時間あたり 60 リクエストを許可しますが、これは消費済みです。
+rateLimitExceededErrorHowCanFix: どうすれば修正できますか？
+rateLimitExceededErrorFix: さらに 1 時間待つと、IP アドレスの制限が復元されます。 または、GitHub Personal Access Token を追加することもできます。これにより、1 時間あたり追加の 5,000 リクエストが得られます。
+rateLimitExceededGeneratePAT: パーソナル アクセス トークンの生成方法を学ぶ
+rateLimitExceededHasSet: 個人用アクセストークンが設定されています。
+rateLimitExceededRemoveToken: トークンを削除
+rateLimitExceededGitHubPAT: GitHub パーソナル アクセス トークン
+rateLimitExceededCopyPastePAT: トークンをコピーして貼り付けます
+rateLimitExceededSaveToken: トークンを保存
+errorTitle: エラーが発生しました
+errorIntro: 最新のステータスの詳細を取得しようとしてエラーが発生しました。
+errorText: しばらくしてからもう一度お試しください。
+errorHome: ホームページへ移動
+pastScheduledMaintenance: 過去の計画メンテナンス
+scheduledMaintenance: 計画メンテナンス
+scheduledMaintenanceSummaryStarted: $DATE から $DURATION 分程度開始
+scheduledMaintenanceSummaryStarts: $DATE から $DURATION 分間程度
+startedAt: 開始時刻
+startsAt: 開始時刻
+duration: 終了時刻
+durationMin: $DURATION 分
+incidentCompleted: 完了済み
+incidentScheduled: 計画済み
