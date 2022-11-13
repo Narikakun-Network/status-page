@@ -1,31 +1,29 @@
 # Change these first
-owner: naknjp # Your GitHub organization or username, where this repository lives
+owner: Narikakun-Network # Your GitHub organization or username, where this repository lives
 repo: status-page # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: なりかくんのブログ
+    url: https://narikakun.net
+  - name: ur0.cc
+    url: https://ur0.cc
+  - name: nTool.online
+    url: https://ntool.online
+  - name: Narikakun Free Fileupload
+    url: https://pfile.narikakun.net/i/us0akk055bpywvwv9wnpw6ov
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nakn.jp
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://pbs.twimg.com/profile_images/1399961116994805761/_e0jtuEp_400x400.jpg
+  name: Narikakun Network StatusPage
+  introTitle: "**Narikakun Network**のステータスページです。"
+  introMessage: To The Next World...
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
