@@ -11,7 +11,21 @@ sites:
     url: https://ntool.online
   - name: Narikakun Free Fileupload
     url: https://pfile.narikakun.net/i/us0akk055bpywvwv9wnpw6ov
-
+  - name: Earthquake EEW Process Server
+    url: $EARTHQUAKE_EEW_SERVER
+    check: "tcp-ping"
+    port: 22
+  - name: Earthquake EEW WebSocket Server
+    url: $EARTHQUAKE_EEW_WS_SERVER
+    check: "tcp-ping"
+    port: 22
+  - name: Earthquake EEW WebSocket Program
+    url: $EARTHQUAKE_EEW_WS
+  - name: Earthquake Process Server
+    url: $EARTHQUAKE_SERVER
+    check: "tcp-ping"
+    port: 22
+    
 assignees:
   - narikakun
 status-website:
