@@ -1,20 +1,20 @@
 [
   {
-    "name": "なりかくんのブログ",
+    "name": "Nariakun Blog",
     "url": "https://narikakun.net",
     "icon": "https://icons.duckduckgo.com/ip3/narikakun.net.ico",
-    "slug": "",
+    "slug": "nariakun-blog",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2107,
-    "timeDay": 2073,
-    "timeWeek": 2107,
-    "timeMonth": 2107,
-    "timeYear": 2107,
+    "time": 1830,
+    "timeDay": 1830,
+    "timeWeek": 1830,
+    "timeMonth": 1830,
+    "timeYear": 1830,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 975,
-    "timeDay": 904,
-    "timeWeek": 975,
-    "timeMonth": 975,
-    "timeYear": 975,
+    "time": 880,
+    "timeDay": 748,
+    "timeWeek": 880,
+    "timeMonth": 880,
+    "timeYear": 880,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 597,
-    "timeWeek": 744,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "time": 750,
+    "timeDay": 682,
+    "timeWeek": 750,
+    "timeMonth": 750,
+    "timeYear": 750,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3173,
-    "timeDay": 1779,
-    "timeWeek": 3173,
-    "timeMonth": 3173,
-    "timeYear": 3173,
+    "time": 2793,
+    "timeDay": 1717,
+    "timeWeek": 2793,
+    "timeMonth": 2793,
+    "timeYear": 2793,
     "dailyMinutesDown": {}
   }
 ]
