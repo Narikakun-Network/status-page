@@ -25,6 +25,8 @@ sites:
     url: $EARTHQUAKE_SERVER
     check: "tcp-ping"
     port: 22
+  - name: mc3 System
+    url: https://mc3.nakn.jp
     
 assignees:
   - narikakun
