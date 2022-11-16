@@ -94,19 +94,19 @@
     "url": "$EARTHQUAKE_EEW_WS_SERVER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "earthquake-eew-web-socket-server",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 149,
-    "timeDay": 149,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
+    "time": 164,
+    "timeDay": 164,
+    "timeWeek": 164,
+    "timeMonth": 164,
+    "timeYear": 164,
     "dailyMinutesDown": {
-      "2022-11-16": 7
+      "2022-11-16": 28
     }
   },
   {
