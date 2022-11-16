@@ -15,8 +15,6 @@ sites:
     url: $EARTHQUAKE_EEW_SERVER
     check: "tcp-ping"
     port: 22
-  - name: Earthquake EEW WebSocket Server
-    url: $EARTHQUAKE_EEW_WS_SERVER
   - name: Earthquake EEW WebSocket Program
     url: $EARTHQUAKE_EEW_WS
     __dangerous__insecure: true
