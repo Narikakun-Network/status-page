@@ -4,19 +4,19 @@
     "url": "https://narikakun.net",
     "icon": "https://icons.duckduckgo.com/ip3/narikakun.net.ico",
     "slug": "nariakun-blog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.95%",
     "time": 1923,
-    "timeDay": 1900,
-    "timeWeek": 1924,
+    "timeDay": 1899,
+    "timeWeek": 1921,
     "timeMonth": 1923,
     "timeYear": 1923,
     "dailyMinutesDown": {
-      "2022-11-22": 0
+      "2022-11-22": 5
     }
   },
   {
@@ -32,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 846,
     "timeDay": 731,
-    "timeWeek": 845,
+    "timeWeek": 846,
     "timeMonth": 846,
     "timeYear": 846,
     "dailyMinutesDown": {}
@@ -50,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 771,
     "timeDay": 668,
-    "timeWeek": 772,
+    "timeWeek": 774,
     "timeMonth": 771,
     "timeYear": 771,
     "dailyMinutesDown": {}
@@ -86,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 2173,
     "timeDay": 1814,
-    "timeWeek": 2158,
+    "timeWeek": 2159,
     "timeMonth": 2173,
     "timeYear": 2173,
     "dailyMinutesDown": {}
