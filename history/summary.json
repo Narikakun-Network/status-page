@@ -76,19 +76,19 @@
     "url": "https://pfile.narikakun.net/i/us0akk055bpywvwv9wnpw6ov",
     "icon": "https://icons.duckduckgo.com/ip3/pfile.narikakun.net.ico",
     "slug": "narikakun-free-fileupload",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2145,
-    "timeDay": 2022,
-    "timeWeek": 2109,
-    "timeMonth": 2145,
-    "timeYear": 2145,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 2143,
+    "timeDay": 2011,
+    "timeWeek": 2107,
+    "timeMonth": 2143,
+    "timeYear": 2143,
     "dailyMinutesDown": {
-      "2022-11-24": 0
+      "2022-11-24": 6
     }
   },
   {
