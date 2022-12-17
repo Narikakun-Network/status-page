@@ -13,13 +13,6 @@ sites:
     url: https://narikakun.ndns.xyz/wordpress/
   - name: Narikakun Free Fileupload
     url: https://pfile.narikakun.net/i/us0akk055bpywvwv9wnpw6ov
-  - name: Earthquake EEW Process Server
-    url: $EARTHQUAKE_EEW_SERVER
-    check: "tcp-ping"
-    port: 22
-  - name: Earthquake EEW WebSocket Program
-    url: $EARTHQUAKE_EEW_WS
-    __dangerous__insecure: true
   - name: Earthquake Process Server
     url: $EARTHQUAKE_SERVER
     check: "tcp-ping"
