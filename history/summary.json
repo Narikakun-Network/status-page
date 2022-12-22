@@ -112,19 +112,19 @@
     "url": "https://mc3.nakn.jp",
     "icon": "https://icons.duckduckgo.com/ip3/mc3.nakn.jp.ico",
     "slug": "mc3-system",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.89%",
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.85%",
     "time": 785,
-    "timeDay": 719,
-    "timeWeek": 781,
+    "timeDay": 730,
+    "timeWeek": 783,
     "timeMonth": 781,
     "timeYear": 785,
     "dailyMinutesDown": {
-      "2022-12-22": 0,
+      "2022-12-22": 18,
       "2022-11-16": 59
     }
   }
