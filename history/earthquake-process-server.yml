@@ -1,7 +1,7 @@
 url: $EARTHQUAKE_SERVER
 status: up
 code: 200
-responseTime: 215
-lastUpdated: 2023-01-05T23:16:22.902Z
+responseTime: 186
+lastUpdated: 2023-01-06T01:16:08.190Z
 startTime: Tue Nov 15 2022 13:59:48 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
